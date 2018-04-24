@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1920mm"
+   height="1080mm"
+   viewBox="0 0 1920 1080"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="reference-image.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.17735352"
+     inkscape:cx="3628.3465"
+     inkscape:cy="2040.9449"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer2"
+     showgrid="false"
+     inkscape:pagecheckerboard="true"
+     showborder="true"
+     borderlayer="true"
+     inkscape:showpageshadow="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Background"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,783)"
+     sodipodi:insensitive="true">
+    <path
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#999999;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.05833328;stroke-miterlimit:4;stroke-dasharray:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       d="m -29.633333,-801.55005 c 655.461103,0 1310.922233,0 1966.383333,0 0,371.12223 0,742.244467 0,1113.3667 -655.4611,0 -1310.92223,0 -1966.383333,0 0,-371.122233 0,-742.24447 0,-1113.3667 z"
+       id="rect822"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Text">
+    <rect
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.32291667;stroke-miterlimit:4;stroke-dasharray:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect856"
+       width="766.31519"
+       height="115.24662"
+       x="576.84241"
+       y="49.736923"
+       rx="57.62331"
+       ry="57.62331" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.99359512px;line-height:21.87100029px;font-family:Dingleberries;-inkscape-font-specification:Dingleberries;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.87483984px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="960.30426"
+       y="103.06583"
+       id="text826"><tspan
+         sodipodi:role="line"
+         id="tspan824"
+         x="960.30426"
+         y="103.06583"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';stroke-width:0.87483984px">Developer Colorspace Test Image</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.32291667;stroke-miterlimit:4;stroke-dasharray:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       d="M 959.99966,195.29228 835.95387,410.1461 h 124.04579 124.04584 z"
+       id="path921" />
+    <path
+       inkscape:connector-curvature="0"
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.32291667;stroke-miterlimit:4;stroke-dasharray:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       d="M 711.90738,625.00066 587.86158,839.85449 H 835.95387 L 773.93062,732.42725 Z"
+       id="path919" />
+    <path
+       inkscape:connector-curvature="0"
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#0000ff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.32291667;stroke-miterlimit:4;stroke-dasharray:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       d="m 1208.0919,625.00066 -62.0232,107.42659 -62.0232,107.42724 h 248.0922 z"
+       id="path862" />
+    <path
+       inkscape:connector-curvature="0"
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffff00;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.32291667;stroke-miterlimit:4;stroke-dasharray:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       d="M 587.86158,410.1461 711.90738,625.00066 773.93062,517.57338 835.95387,410.1461 Z"
+       id="path915" />
+    <path
+       inkscape:connector-curvature="0"
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#00ffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.32291667;stroke-miterlimit:4;stroke-dasharray:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       d="m 1084.0455,410.1461 62.0232,107.42728 62.0232,107.42659 124.0465,-214.85387 z"
+       id="path913" />
+    <path
+       inkscape:connector-curvature="0"
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ff00ff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.32291667;stroke-miterlimit:4;stroke-dasharray:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       d="M 835.95387,839.85449 959.99966,1054.7084 1084.0455,839.85449 H 959.99966 Z"
+       id="path862-6" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.2774868px;line-height:18.2984333px;font-family:Dingleberries;-inkscape-font-specification:Dingleberries;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.73193711px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="711.7254"
+       y="820.88416"
+       id="text826-0"><tspan
+         sodipodi:role="line"
+         id="tspan824-7"
+         x="711.7254"
+         y="820.88416"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';stroke-width:0.73193711px">Red</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.27749062px;line-height:18.2984333px;font-family:Dingleberries;-inkscape-font-specification:Dingleberries;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.73193711px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1207.5557"
+       y="820.88416"
+       id="text826-0-3"><tspan
+         sodipodi:role="line"
+         id="tspan824-7-1"
+         x="1207.5557"
+         y="820.88416"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';stroke-width:0.73193711px">Blue</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.27749062px;line-height:18.2984333px;font-family:Dingleberries;-inkscape-font-specification:Dingleberries;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.73193711px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="711.96741"
+       y="448.87549"
+       id="text826-0-1"><tspan
+         sodipodi:role="line"
+         id="tspan824-7-9"
+         x="711.96741"
+         y="448.87549"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';stroke-width:0.73193711px">Yellow</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.27749252px;line-height:18.2984333px;font-family:Dingleberries;-inkscape-font-specification:Dingleberries;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.73193711px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1208.361"
+       y="446.44513"
+       id="text826-0-3-0"><tspan
+         sodipodi:role="line"
+         id="tspan824-7-1-5"
+         x="1208.361"
+         y="446.44513"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';stroke-width:0.73193711px">Cyan</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.27749252px;line-height:18.2984333px;font-family:Dingleberries;-inkscape-font-specification:Dingleberries;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.73193711px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="960.26868"
+       y="391.36612"
+       id="text826-0-1-6"><tspan
+         sodipodi:role="line"
+         id="tspan824-7-9-7"
+         x="960.26868"
+         y="391.36612"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';stroke-width:0.73193711px">Green</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.27749252px;line-height:18.2984333px;font-family:Dingleberries;-inkscape-font-specification:Dingleberries;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.73193711px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="959.81805"
+       y="880.1167"
+       id="text826-0-1-6-7"><tspan
+         sodipodi:role="line"
+         id="tspan824-7-9-7-4"
+         x="959.81805"
+         y="880.1167"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';stroke-width:0.73193711px">Magenta</tspan></text>
+    <rect
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.32291663;stroke-miterlimit:4;stroke-dasharray:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect1061"
+       width="193.38658"
+       height="96.100464"
+       x="863.3067"
+       y="480.84964" />
+    <rect
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#7f7f7f;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.32291663;stroke-miterlimit:4;stroke-dasharray:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect1061-6"
+       width="193.38658"
+       height="96.100464"
+       x="863.30676"
+       y="576.95013" />
+    <rect
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.32291663;stroke-miterlimit:4;stroke-dasharray:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect1061-6-4"
+       width="193.38658"
+       height="96.100464"
+       x="863.3067"
+       y="673.0506" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.27749252px;line-height:18.2984333px;font-family:Dingleberries;-inkscape-font-specification:Dingleberries;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.73193711px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="958.16559"
+       y="759.82642"
+       id="text826-0-3-0-7"><tspan
+         sodipodi:role="line"
+         id="tspan824-7-1-5-4"
+         x="958.16559"
+         y="759.82642"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';stroke-width:0.73193711px">1.0</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.27749252px;line-height:18.2984333px;font-family:Dingleberries;-inkscape-font-specification:Dingleberries;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.73193711px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="959.95154"
+       y="663.72595"
+       id="text826-0-3-0-7-8"><tspan
+         sodipodi:role="line"
+         id="tspan824-7-1-5-4-5"
+         x="959.95154"
+         y="663.72595"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';stroke-width:0.73193711px">0.5</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.27749252px;line-height:18.2984333px;font-family:Dingleberries;-inkscape-font-specification:Dingleberries;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.73193711px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="959.99542"
+       y="567.62543"
+       id="text826-0-3-0-7-8-8"><tspan
+         sodipodi:role="line"
+         id="tspan824-7-1-5-4-5-2"
+         x="959.99542"
+         y="567.62543"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';fill:#ffffff;stroke-width:0.73193711px">0.0</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24.77005959px;line-height:15.48128986px;font-family:Dingleberries;-inkscape-font-specification:Dingleberries;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.61925143px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="959.66748"
+       y="134.80647"
+       id="text826-6"><tspan
+         sodipodi:role="line"
+         id="tspan824-0"
+         x="959.66748"
+         y="134.80647"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';stroke-width:0.61925143px">Encoded with<tspan
+   style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L Semi-Bold'"
+   id="tspan1212"> Developer</tspan><tspan
+   style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L Semi-Bold'"
+   id="tspan1191"> Testing Encoding</tspan></tspan></text>
+  </g>
+</svg>
